@@ -1,0 +1,4 @@
+def Abhishek(a):
+  temp = a*a
+  return temp
+Abhishek(69)
